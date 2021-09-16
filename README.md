@@ -5,7 +5,7 @@ The purpose of this repo is to get used to using github and version control in g
 <br>
 2- Create a new branch locally
 <br>
-3- Create a file
+3- Create a file and add your name to it
 <br>
 4- Push your branch
 <br>
